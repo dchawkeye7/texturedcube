@@ -1,0 +1,7 @@
+{
+  "name": "texturedcube",
+  "description": "A tutorial on texturing with webgl",
+  "repository": "https://github.com/dchawkeye7/texturedcube",
+  "logo": "https://github.com/dchawkeye7/texturedcube/raw/master/crate.png",
+  "keywords": ["webgl", "tutorial", "texturing"]
+}
